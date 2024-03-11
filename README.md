@@ -1,3 +1,5 @@
+![spotify](https://github.com/DharshanR31/Spotify-SQL-Project/assets/109989995/177942e4-ac4f-471e-9535-a06d72136022)
+
 # Spotify-SQL-Project
 
 This project features a collection of SQL queries crafted to extract distinct insights from a simulated Spotify database.
